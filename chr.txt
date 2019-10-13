@@ -2,4 +2,8 @@ hi re!!!!
 
 hi re!!!!
 ti wra einaqi?
+<<<<<<< HEAD
 pera brexei aderfe!
+=======
+nomizw stis 7 arxizei autos !!!1
+>>>>>>> proxeiro
