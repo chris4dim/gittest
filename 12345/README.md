@@ -31,3 +31,21 @@ beet move -d /home/christos title:'Haunted'
 ```
 beet remove title:'Haunted'
 ```                       
+
+
+## Παραδοτέο 3:
+## Download a torrent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
