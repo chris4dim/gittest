@@ -33,11 +33,18 @@ beet remove title:'Haunted'
 ```                       
 
 
+
+
 ## Παραδοτέο 3:
 ## Download a torrent
 
 
+## install rtorrent
+```
+sudo apt-get install rtorrent
+```                                             
 
+## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
 
 
 
