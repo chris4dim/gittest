@@ -45,7 +45,7 @@ sudo apt-get install rtorrent
 ```                                             
 ### Το επόμενο βήμα ήταν να κατεβάσω το αρχείο .rtorrent.rc από το github:
 ```
-sudo apt-get install rtorrent
+https://gist.github.com/bryanjswift/1525912
 ```            
 
 ## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
