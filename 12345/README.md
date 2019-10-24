@@ -48,6 +48,9 @@ sudo apt-get install rtorrent
 https://gist.github.com/bryanjswift/1525912
 ```            
 
+### Στο επόμενο βήμα δημιούργησα 3 φακέλους rDownloads, rSessions και rWatch στο /home/christos/. Μετά άλλαξα τον φάκελο αποθήκευσης μέσα στο αρχείο .rtorrent.rc τον φάκελο αποθήκευσης απο unsorted σε /home/christos/Downloads.
+
+
 ## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
 
 
