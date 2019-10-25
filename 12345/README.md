@@ -32,7 +32,7 @@ beet move -d /home/christos title:'Haunted'
 beet remove title:'Haunted'
 ```                       
 
-
+---
 
 
 ## Παραδοτέο 3:
@@ -55,7 +55,7 @@ https://gist.github.com/bryanjswift/1525912
 ## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
 
 
-
+---
 
 ## Παραδοτέο 4:
 ## Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs.
@@ -77,7 +77,6 @@ sudo apt-get install cmus
 7. Settings
 ```           
 ## Εισαγωγή mp3 στο cmus:
-
 ```
 :add ~/Music
 
@@ -98,7 +97,7 @@ b = next song
 ```           
 
 
-
+---
 
 
 
