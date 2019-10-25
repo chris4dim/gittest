@@ -57,6 +57,45 @@ https://gist.github.com/bryanjswift/1525912
 
 
 
+## Παραδοτέο 4:
+## Visualize an mp3: demonstrate album art and visualizations with an mp3 player and various songs.
+
+## install cmus
+```
+sudo apt-get install cmus
+
+```                       
+### Η χρήση του cmus δίνει τη δυνατότητα στον χρήστη να διαχειριστεί πλήθος αρχείων mp3, να τα ταξινομήσει με βάση τα album και δημιουργήσει playlists της επιλογής του. Η εμφάνιση είναι απλή και είναι χωρισμένο σε 7 διαφορετικές εμφανίσεις (views) όπου η κάθε εμφάνιση επιλέγετα με βάση έναν αριθμό από το 1-7:
+
+```
+1. Library
+2. Sorted Library
+3. Playlist
+4. Play Queue
+5. Browser
+6. Filters
+7. Settings
+```           
+## Εισαγωγή mp3 στο cmus:
+
+```
+:add ~/Music
+
+```           
+
+## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
+
+
+## Κάποια βασικά keybindings είναι:
+
+```
+x = play song
+c = pause
+v = stop
+z = previous song
+b = next song
+
+```           
 
 
 
