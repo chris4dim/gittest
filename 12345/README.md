@@ -99,6 +99,23 @@ b = next song
 
 ---
 
+## Παραδοτέο 5
+## Watch video: youtube video streaming.
 
+## install mpv
+### Για την εγκαστάσταση του mpv έγινε η χρήση των παρακάτω εντολών:
 
+```
+sudo add-apt-repository ppa:mc3man/mpv-tests
+sudo apt-get update
+sudo apt-get install mpv
 
+```       
+## Asciinema URL:https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG
+
+### Η εκτέλεση του βίντεο γίνεται με την παρακάτω εντολή:
+
+```
+mpv "link"
+
+```       
