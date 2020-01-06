@@ -164,7 +164,7 @@ Google, Youtube, Man Unix, Github
 ## 6ο tweet: [6o tweet](https://twitter.com/p17chr1/status/1193216082670182400)
 ## 7ο tweet: [7o tweet](https://twitter.com/p17chr1/status/1193217986393497600)
 ## 8ο tweet: [8o tweet](https://twitter.com/p17chr1/status/1193220791766310914)
-## 9ο tweet:
+## 9ο tweet: [9o tweet](https://twitter.com/p17chr1/status/1193224890846973952)
 ## 10ο tweet:
 
 
