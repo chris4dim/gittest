@@ -156,7 +156,7 @@ Google, Youtube, Man Unix, Github
 ## Συμμετοχικό εκπαιδευτικό υλικο:
 ## Twitter: [Προφίλ](https://twitter.com/p17chr1)
 
-## 1ο twitt:
+## 1ο tweet: [1o tweet](https://twitter.com/p17chr1/status/1193189008752496644)
 ## 2ο twitt:
 ## 3ο twitt:
 ## 4ο twitt:
