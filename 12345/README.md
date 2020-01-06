@@ -139,13 +139,13 @@ b = επόμενο τραγούδι. Τέλος, για τη διεκπαιρέ�
 ### 1ο παραδοτέο.
 ## Asciinema URL: [1ο paradoteo](https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2)
 ### 2ο παραδοτέο.
-## Asciinema URL: https://asciinema.org/a/XTiUpcuhomySFsQyTEOXMsMby
+## Asciinema URL: [2o paradoteo](https://asciinema.org/a/XTiUpcuhomySFsQyTEOXMsMby)
 ### 3ο παραδοτέο.
-## Asciinema URL: https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi
+## Asciinema URL: [3o paradoteo](https://asciinema.org/a/ndwwRGIYdskvSX66YSVdI0wpi)
 ### 4ο παραδοτέο.
-## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
+## Asciinema URL: [4o paradoteo](https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3)
 ### 5ο παραδοτέο.
-## Asciinema URL: https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG
+## Asciinema URL: [5o paradoteo](https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG)
 
 
 ### Συμπεράσματα:
