@@ -157,15 +157,15 @@ Google, Youtube, Man Unix, Github
 ## Twitter: [Προφίλ](https://twitter.com/p17chr1)
 
 ## 1ο tweet: [1o tweet](https://twitter.com/p17chr1/status/1193189008752496644)
-## 2ο twitt:
-## 3ο twitt:
-## 4ο twitt:
-## 5ο twitt:
-## 6ο twitt:
-## 7ο twitt:
-## 8ο twitt:
-## 9ο twitt:
-## 10ο twitt:
+## 2ο tweet: [2o tweet](https://twitter.com/p17chr1/status/1193190716308164609)
+## 3ο tweet:
+## 4ο tweet:
+## 5ο tweet:
+## 6ο tweet:
+## 7ο tweet:
+## 8ο tweet:
+## 9ο tweet:
+## 10ο tweet:
 
 
 
