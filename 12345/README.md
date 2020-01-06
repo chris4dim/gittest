@@ -137,7 +137,7 @@ b = επόμενο τραγούδι. Τέλος, για τη διεκπαιρέ�
 ### Αποτελέσματα:
 Με τη χρήση λοιπόν του asciinema έγινε η καταγραφή του τέρμιναλ στα βήματα που ακολούθησα για την πραγματοποίηση του κάθε παραδοτέου. Έτσι λοιπόν παρακάτω παραθέτω κατα σειρά τις καταγραφές, που πραγματοποιήθηκαν για το κάθε παραδοτέο:
 ### 1ο παραδοτέο.
-## Asciinema URL: https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2
+## Asciinema URL: [1ο paradoteo](https://asciinema.org/a/LzIEgPe6Zvtg61N8DdWKWcqy2)
 ### 2ο παραδοτέο.
 ## Asciinema URL: https://asciinema.org/a/XTiUpcuhomySFsQyTEOXMsMby
 ### 3ο παραδοτέο.
@@ -145,7 +145,7 @@ b = επόμενο τραγούδι. Τέλος, για τη διεκπαιρέ�
 ### 4ο παραδοτέο.
 ## Asciinema URL: https://asciinema.org/a/rk8NkeNtKJ8s3HKKkeRyCxEv3
 ### 5ο παραδοτέο.
-## Asciinema URL:https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG
+## Asciinema URL: https://asciinema.org/a/3Z7CzQgc2m8EHAwPMtaM2WvsG
 
 
 ### Συμπεράσματα:
