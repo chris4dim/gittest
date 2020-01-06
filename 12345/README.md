@@ -154,8 +154,18 @@ b = επόμενο τραγούδι. Τέλος, για τη διεκπαιρέ�
 Google, Youtube, Man Unix, Github
 
 ## Συμμετοχικό εκπαιδευτικό υλικο:
-## Twitter:[Προφίλ](https://twitter.com/p17chr1)
+## Twitter: [Προφίλ](https://twitter.com/p17chr1)
 
+## 1ο twitt:
+## 2ο twitt:
+## 3ο twitt:
+## 4ο twitt:
+## 5ο twitt:
+## 6ο twitt:
+## 7ο twitt:
+## 8ο twitt:
+## 9ο twitt:
+## 10ο twitt:
 
 
 
