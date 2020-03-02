@@ -221,7 +221,7 @@ Asciinema URL: [Docker](https://asciinema.org/a/MLQkYsRwftDMfEr65J3xUfudT)
 
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
-![Screenshot from 2020-03-02 16-47-27](https://user-images.githubusercontent.com/44117722/75696053-9eb84800-5cb3-11ea-8be1-77ac5703431b.png)
+![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
 
 
 
