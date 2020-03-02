@@ -186,7 +186,7 @@ Texnologia
 
 Για να γίνει η εγκατάσταση του docker ακολούθησα τα παρακάτω βήματα κατά σειρά:
 
-'''
+```
 
 1)sudo apt-get update
 
@@ -207,15 +207,15 @@ Texnologia
    stable"
    
 6)sudo apt-get install docker-ce docker-ce-cli containerd.io
-'''
+```
 ### Δημιουργία image Apache σε php με το Docker:
  Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιοθργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
  
- '''
+```
  
  $ docker run -d -p 80:80 --name my-apache-php-app -v "$PWD":/var/www/html php:7.2-apache
  
- '''
+```
 
 Asciinema: [Docker](https://asciinema.org/a/whKaFZvXm7Te7JUh0YXGdPebE)
 
