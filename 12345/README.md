@@ -217,7 +217,7 @@ Texnologia
  
 ```
 
-Asciinema: [Docker](https://asciinema.org/a/whKaFZvXm7Te7JUh0YXGdPebE)
+Asciinema: [Docker](https://asciinema.org/a/MLQkYsRwftDMfEr65J3xUfudT)
 
 ### Apotelesma ektelesis ths parapanw entolhs einai:
 
