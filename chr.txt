@@ -1,9 +1,19 @@
-hi re!!!!
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8" />
+      <title>Page Title</title>
+   </head>
+<body>
 
-hi re!!!!
-ti wra einaqi?
-<<<<<<< HEAD
-pera brexei aderfe!
-=======
-nomizw stis 7 arxizei autos !!!1
->>>>>>> proxeiro
+<?php echo " ΟΝΟΜΑ: ΧΡΗΣΤΟΣ "; ?><br />
+<?php echo " ΕΠΙΘΕΤΟ: ΔΗΜΑΣ"; ?><br />
+<?php echo " ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΝΗΣΗΣ: 7/12/1984 "; ?><br />
+<?php echo " ΤΟΠΟΣ ΚΑΤΟΙΚΙΑΣ: ΙΩΑΝΝΙΝΑ"; ?><br />
+<?php echo " ΑΠΟΦΟΙΤΟΣ: ΜΗΧΑΝΙΚΩΝ ΠΕΡΙΒΑΛΛΟΝΤΟΣ"; ?><br />
+<?php echo " ΜΕΤΑΠΤΥΧΙΑΚΟ: ΠΕΡΙΒΑΛΛΟΝΤΙΚΗ ΜΗΧΑΝΙΚΗ ΚΑΙ ΕΠΙΣΤΗΜΗ"; ?><br />
+<?php echo " INTEGRATED MASTER": ΠΡΟΣΤΑΣΙΑ ΠΕΡΙΒΑΛΛΟΝΤΟΣ; ?><br />
+<?php echo " ΕΠΑΓΓΕΛΜΑ: ΕΛΕΥΘΕΡΟΣ ΕΠΑΓΓΕΛΜΑΤΙΑΣ"; ?><br />
+
+</body>
+</html>
