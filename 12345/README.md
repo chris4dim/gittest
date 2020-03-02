@@ -212,11 +212,12 @@ Texnologia
  Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιοθργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
  
  '''
+ 
  $ docker run -d -p 80:80 --name my-apache-php-app -v "$PWD":/var/www/html php:7.2-apache
  
  '''
 
-Asciinema:[Docker](https://asciinema.org/a/whKaFZvXm7Te7JUh0YXGdPebE)
+Asciinema: [Docker](https://asciinema.org/a/whKaFZvXm7Te7JUh0YXGdPebE)
 
 
 
