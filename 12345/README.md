@@ -209,7 +209,7 @@ Texnologia
 6)sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 ### Δημιουργία image Apache σε php με το Docker:
- Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιοθργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
+ Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
  
 ```
  
@@ -217,9 +217,9 @@ Texnologia
  
 ```
 
-Asciinema: [Docker](https://asciinema.org/a/MLQkYsRwftDMfEr65J3xUfudT)
+Asciinema URL: [Docker](https://asciinema.org/a/MLQkYsRwftDMfEr65J3xUfudT)
 
-### Apotelesma ektelesis ths parapanw entolhs einai:
+### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
 ![Screenshot from 2020-03-02 16-47-27](https://user-images.githubusercontent.com/44117722/75696053-9eb84800-5cb3-11ea-8be1-77ac5703431b.png)
 
