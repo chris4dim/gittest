@@ -221,7 +221,8 @@ Asciinema: [Docker](https://asciinema.org/a/whKaFZvXm7Te7JUh0YXGdPebE)
 
 ### Apotelesma ektelesis ths parapanw entolhs einai:
 
-https://user-images.githubusercontent.com/44117722/75695294-83990880-5cb2-11ea-9414-9e0d8cd2f357.png
+![Screenshot from 2020-03-02 16-47-27](https://user-images.githubusercontent.com/44117722/75696053-9eb84800-5cb3-11ea-8be1-77ac5703431b.png)
+
 
 
 
