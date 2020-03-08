@@ -236,6 +236,7 @@ Texnologia
 ```
 Για να πραγματοποιήσω την εργασία κατέβασα ένα βίντεο από το youtube με τη χρήση του youtube-dl όπως φαίνεται στο παρακάτω βίντεο που έφτιαξα. Με την ολοκλήρωση του κατεβάσματος του βίντεο στάλθηκε μήνυμα ότι ολοκληρώθηκε η διεργασία του κατεβάσματος όπως φαίνεται παρακάτω.
 
+![ntfy3](https://user-images.githubusercontent.com/44117722/76169046-5ef2d400-617d-11ea-95f7-e25dab899b56.png)
 
 ### Asciinema URL: [Ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
 
