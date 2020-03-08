@@ -225,7 +225,7 @@ Texnologia
 
 
 
-
+### Asciinema URL: [Ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
 
 
 
