@@ -227,5 +227,6 @@ Texnologia
 
 ### Asciinema URL: [Ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
 
-
+### Όταν κατέβηκε το αρχείο βίντεο εμφανίστηκε το μήνυμα πάνω από το τέρμιναλ.
+![Screenshot from 2020-03-08 19-50-25](https://user-images.githubusercontent.com/44117722/76168422-6c598f80-6178-11ea-92da-c9378161fe24.png)
 
