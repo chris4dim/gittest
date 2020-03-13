@@ -188,9 +188,9 @@ Texnologia
 
 ```
 
-1)sudo apt-get update
+1) $ sudo apt-get update
 
-2)sudo apt-get install \
+2) $ sudo apt-get install \
     apt-transport-https \
     ca-certificates \
     curl \
@@ -199,14 +199,14 @@ Texnologia
     
 3)curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
-4)sudo apt-key fingerprint 0EBFCD88
+4) $ sudo apt-key fingerprint 0EBFCD88
 
 5)sudo add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    $(lsb_release -cs) \
    stable"
    
-6)sudo apt-get install docker-ce docker-ce-cli containerd.io
+6) $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 ### Δημιουργία image Apache σε php με το Docker:
  Αρχικά δημιούργησα ένα αρχείο index.php σε ένα φάκελο που τον ονόμασα docker και χρησιμοποίησα το docker για να δημιουργήσω μία εικόνα "image" του Apache σε php χρησιμοποιώντας την παρακάτω εντολή:
