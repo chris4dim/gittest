@@ -298,8 +298,8 @@ Texnologia
 Για την εκπόνηση της εργασίας αυτής χρησιμοποιήθηκαν δύο python scripts, ώστε να γίνει παρακολούθηση των αρχείων αυτών κατά την εκτέλεσή τους. Πιο συγκεκριμένα, χρησιμοποιήθηκαν τα αρχεία example1.py και example2.py, όπου με την χρήση της παρακάτω εντολής βγήκαν κάποια αποτλέσμαατα όσον αφορά τον χρόνο εκτέλεσής τους (ελάχιστο, μέγιστο, μέσο χρόνο και μαζί με την τυπική απόκλιση).
 
 ```
- $ hyperfine 'pyhton3 example1' 'python3 example2'
+ $ hyperfine 'pyhton3 example1.py' 'python3 example2.py'
 ```
 
-### Asciinema URL: 
+### Asciinema URL: [asciinema](https://asciinema.org/a/Hlyjysq7KhFegTIvReVB16Fu9)
 
