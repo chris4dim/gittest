@@ -222,9 +222,12 @@ Texnologia
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
 ![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
+
 ### References
+
 [docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 [dockerhub](https://hub.docker.com/_/php)
+
 ---
 ### Για να γίνει η εγκατάσταση του Ntfy έγραψα την παρακάτω εντολή:
 
@@ -246,6 +249,7 @@ Texnologia
 ![Screenshot from 2020-03-08 19-50-25](https://user-images.githubusercontent.com/44117722/76168422-6c598f80-6178-11ea-92da-c9378161fe24.png)
 
 ### References
+
 [ntfy](https://github.com/dschep/ntfy)
 ---
 
@@ -290,6 +294,7 @@ Texnologia
 ![Screenshot from 2020-03-13 21-47-12](https://user-images.githubusercontent.com/44117722/76658933-d8bffe80-657d-11ea-9993-11e9de8f5052.png)
 
 ### References
+
 [openSSh](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
 
 ---
@@ -318,4 +323,5 @@ Texnologia
 ![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
 
 ### References
+
 [Hyperfine](https://github.com/sharkdp/hyperfine)
