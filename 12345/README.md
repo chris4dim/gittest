@@ -286,12 +286,20 @@ Texnologia
 ![Screenshot from 2020-03-13 21-47-12](https://user-images.githubusercontent.com/44117722/76658933-d8bffe80-657d-11ea-9993-11e9de8f5052.png)
 
 
+---
+Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
 
+```
+ 1) $ wget https://github.com/sharkdp/hyperfine/releases/download/v1.9.0/hyperfine_1.9.0_amd64.deb
+ 
+ 2) $ sudo dpkg -i hyperfine_1.9.0_amd64.deb
+```
 
+Για την εκπόνηση της εργασίας αυτής χρησιμοποιήθηκαν δύο python scripts, ώστε να γίνει παρακολούθηση των αρχείων αυτών κατά την εκτέλεσή τους. Πιο συγκεκριμένα, χρησιμοποιήθηκαν τα αρχεία example1.py και example2.py, όπου με την χρήση της παρακάτω εντολής βγήκαν κάποια αποτλέσμαατα όσον αφορά τον χρόνο εκτέλεσής τους (ελάχιστο, μέγιστο, μέσο χρόνο και μαζί με την τυπική απόκλιση).
 
+```
+ $ hyperfine 'pyhton3 example1' 'python3 example2'
+```
 
-
-
-
-
+### Asciinema URL: 
 
