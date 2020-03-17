@@ -309,5 +309,5 @@ Texnologia
  $ hyperfine --export-csv output 'pyhton3 example1.py' 'python3 example2.py'
 ```
 
-
+![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
 
