@@ -217,12 +217,14 @@ Texnologia
  
 ```
 
-### Asciinema URL: [Docker](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
+### Asciinema URL: [asciinema](https://asciinema.org/a/2WotEN86jJDNILA4YkEDPTSC6)
 
 ### Με τη δημιουργία "εικόνας" Apache στο docker, μπορούμε να παμε στον browser Mozila Firefox και γράφοντας localhost εμφανίζεται ότι γράψαμε στο αρχείο index.php:
 
 ![Screenshot from 2020-03-02 22-22-39](https://user-images.githubusercontent.com/44117722/75714499-81e03c80-5cd4-11ea-988b-7d6d2700c3c3.png)
-
+### References
+[docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+[dockerhub](https://hub.docker.com/_/php)
 ---
 ### Για να γίνει η εγκατάσταση του Ntfy έγραψα την παρακάτω εντολή:
 
@@ -238,11 +240,13 @@ Texnologia
 
 ![ntfy3](https://user-images.githubusercontent.com/44117722/76169046-5ef2d400-617d-11ea-95f7-e25dab899b56.png)
 
-### Asciinema URL: [Ntfy](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
+### Asciinema URL: [asciinema](https://asciinema.org/a/yrLNEWHwtuYB7RuSYbHD79F6Q)
 
 ### Όταν κατέβηκε το αρχείο βίντεο εμφανίστηκε το μήνυμα πάνω από το τέρμιναλ.
 ![Screenshot from 2020-03-08 19-50-25](https://user-images.githubusercontent.com/44117722/76168422-6c598f80-6178-11ea-92da-c9378161fe24.png)
 
+### References
+[ntfy](https://github.com/dschep/ntfy)
 ---
 
 
@@ -279,12 +283,14 @@ Texnologia
 ```
 Αφού λοιπόν έγινε η σύνδεση των δύο συστημάτων, από το τέρμιναλ του λειτουργικού συστήματος Ubuntu εκτέλεσα το αρχείο cv με nano cv, το οποίο ήταν αποθηκευμένο στο Raspberry pi 4. Όλη η διαδικασία περιγράφεται παρακάτω στο βίντεο:
 
-### Asciinema URL: [SSH](https://asciinema.org/a/WjQ1cvKtJcGpUtuwJ34ZUYIes)
+### Asciinema URL: [asciinema](https://asciinema.org/a/WjQ1cvKtJcGpUtuwJ34ZUYIes)
 
 ### Το αρχείο cv κατά την εκτελέση του απο το απομακρυσμένο σύστημα Ubuntu.
 
 ![Screenshot from 2020-03-13 21-47-12](https://user-images.githubusercontent.com/44117722/76658933-d8bffe80-657d-11ea-9993-11e9de8f5052.png)
 
+### References
+[openSSh](https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/)
 
 ---
 Για να γίνει η εγκατάσταση του hyperfine έγραψα τις παρακάτω εντολές στο τέρμιναλ:
@@ -311,5 +317,5 @@ Texnologia
 ### Τα αποτελέσματα στο αρχείο output.csv
 ![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
 
-## References
+### References
 [Hyperfine](https://github.com/sharkdp/hyperfine)
