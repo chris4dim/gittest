@@ -311,3 +311,5 @@ Texnologia
 ### Τα αποτελέσματα στο αρχείο output.csv
 ![hyperfine](https://user-images.githubusercontent.com/44117722/76889676-af111b00-688e-11ea-91ba-aab67618e128.png)
 
+## References
+[Hyperfine](https://github.com/sharkdp/hyperfine)
