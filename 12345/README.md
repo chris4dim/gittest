@@ -383,6 +383,8 @@ Texnologia
 ```
 ### Asciinema URL: [fish](https://asciinema.org/a/nlhsWjVWQEb320ttdMNeLMPv3)
 
+### References
 
-
+[fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
+[terminals](https://linuxhint.com/best_terminal_aternatives_ubuntu/)
 
