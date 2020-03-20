@@ -375,7 +375,13 @@ Texnologia
 ### Εικόνα του τέρμιναλ "terminology".
 ![terminology](https://user-images.githubusercontent.com/44117722/77184148-0d7d0a00-6ad8-11ea-808d-c4abc4beb09b.png)
 
-
+### Στη συγκεκριμένη εργασία έγινε η εγκατάσταση και η χρήση του shell "fish" και η επίδειξη του με βίντεο μέσω του asciinema. Χρησιμοποίηθηκε για την δημιουργία ενός φακέλου με το όνομα "fish" και η δημιουργία σε αυτόν ένα αρχείο hello.py, όπου δίνει το αποτέλεσμα "hello world!!!". Για την εγκατλασταση χρησιμοποιήθηκαν κατά σειρα οι παρακάτω εντολές:
+```
+ 1) $ sudo apt-add-repository ppa:fish-shell/release-3
+ 2) $ sudo apt-get update
+ 3) $ sudo apt-get install fish
+```
+### Asciinema URL: [fish](https://asciinema.org/a/nlhsWjVWQEb320ttdMNeLMPv3)
 
 
 
