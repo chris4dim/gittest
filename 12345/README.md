@@ -390,7 +390,7 @@ Texnologia
 
 ---
 
- asciinema URL: [Mysite](https://asciinema.org/a/03PafVZbDzlmhjUjNwM5ViN8s)
+ asciinema URL: [Mysite](https://asciinema.org/a/SjSHKU6FzCrbk3xICiP1y7SGj)
 
 
 
