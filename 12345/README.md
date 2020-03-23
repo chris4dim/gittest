@@ -388,3 +388,9 @@ Texnologia
 [fishshell](https://launchpad.net/~fish-shell/+archive/ubuntu/release-3)
 [terminals](https://linuxhint.com/best_terminal_aternatives_ubuntu/)
 
+---
+
+ asciinema URL: [Mysite](https://asciinema.org/a/03PafVZbDzlmhjUjNwM5ViN8s)
+
+
+
